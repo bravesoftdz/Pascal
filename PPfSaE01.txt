@@ -1,0 +1,25 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+1. Evaluation of a Pascal Compiler
+
+1.1 Introduction
+
+1.2 Precision and Range of Floating-Point Operations
+
+1.3 Pascal Program: A Test of the Floating-Point Operations
+
+1.4 Pascal SIN and COS Functions
+
+1.5 Pascal Program: Testing the SIN Function
+
+1.6 Other Pascal Functions
+
+1.7 External Files
+
+1.8 A Power-of-10 Function
+
+1.9 Pascal Program: Calculating Powers of 10
+
+1.10 Summary

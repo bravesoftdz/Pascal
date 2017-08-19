@@ -1,0 +1,29 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+6. Sorting
+
+6.1 Introduction
+
+6.2 Handling Experimental Data
+
+6.3 A Bubble Sort
+
+6.4 Pascal Program: The Bubble Sort and TSTSORT
+
+6.5 Pascal Procedure: Bubble Sort with SWAP
+
+6.6 A Shell Sort
+
+6.7 Pascal Procedure: The Shell-Metzner Sort
+
+6.8 The Quick Sort
+
+6.9 Pascal Procedure: A Recursive Quick Sort
+
+6.10 Pascal Procedure: A Non-recursive Quick Sort
+
+6.11 Incorporating Sort into the Curve-Fitting Program
+
+6.12 Summary

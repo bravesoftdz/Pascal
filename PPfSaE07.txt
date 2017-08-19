@@ -1,0 +1,28 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+7. General Least-Squares Curve Fitting
+
+7.1 Introduction
+
+7.2 A Parabolic Curve Fit
+
+7.3 Pascal Program: Least-Squares Curve Fit for a Parabola
+
+7.4 Curve Fits for Other Equations
+
+7.5 Pascal Program: The Matrix Approach to Curve Fitting
+
+7.6 Pascal Program: Adjusting the Order of the Polynomial
+
+7.7 Pascal Program: The Heat-Capacity Equation
+
+7.8 Pascal Program: The Vapor Pressure Equation
+
+7.9 A Three-Variable Equation
+
+7.10 Pascal Program: An Equation of State for Steam
+
+7.11 Summary
+

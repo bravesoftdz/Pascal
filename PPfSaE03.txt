@@ -1,0 +1,24 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+3. Vector and Matrix Operations
+
+3.1 Introduction
+
+3.2 Scalars and Arrays
+
+3.3 Vectors
+
+3.4 Matrices
+
+3.5 Pascal Program: Matrix Multiplication
+
+3.6 Determinants
+
+3.7 Pascal Program: Determinants
+
+3.8 Inverse Matrices and Matrix Division
+
+3.9 Summary
+

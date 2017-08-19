@@ -1,0 +1,43 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+4. Simultaneous Solution of Linear Equations
+
+4.1 Introduction
+
+4.2 Linear Equations and Simultaneous Equations
+
+4.3 Solution by Cramer’s Rule
+
+4.4 Pascal Program: A More Elegant Use of Cramer’s Rule
+
+4.5 Solution by Gauss Elimination
+
+4.6 Pascal Program: The Gauss Elimination Method
+
+4.7 Solution by Gauss-Jordan Elimination
+
+4.8 Pascal Program: Gauss-Jordan Elimination
+
+4.9 Multiple Constant Vectors and Matrix Inversion
+
+4.10 Pascal Program: Gauss-Jordan Elimination, Version Two
+
+4.11 Ill-Conditions Equations
+
+4.12 Pascal Program: Solving Hilbert Matrices
+
+4.13 A Simultaneous Best Fit
+
+4.14 Pascal Program: The Best Fit Solution
+
+4.15 Equations with Complex Coefficients
+
+4.16 Pascal Program: Simultaneous Equations with Complex Coefficients
+
+4.17 The Gauss-Seidel Iterative Method
+
+4.18 Pascal Program: The Gauss-Seidel Method
+
+4.19 Summary

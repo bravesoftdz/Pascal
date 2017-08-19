@@ -1,0 +1,29 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+9. Numerical Integration
+
+9.1 Introduction
+
+9.2 The Definite Integral
+
+9.3 The Trapezoidal Rule
+
+9.4 Pascal Program: The Trapezoidal Rule with User Input for the Number of Panels
+
+9.5 Pascal Program: An Improved Trapezoidal Rule
+
+9.6 Pascal Program: Trapezoidal Rule with End Correction
+
+9.7 Pascal Program: Simpson’s Integration Method
+
+9.8 The Romberg Method
+
+9.9 Pascal Program: Integration by the Romberg Method
+
+9.10 Functions that Become Infinite at One Limit
+
+9.11 Pascal Program: Adjustable Panels for an Infinite Function
+
+9.12 Summary

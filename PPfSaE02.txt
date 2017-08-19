@@ -1,0 +1,25 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+2. Mean and Standard Deviation
+
+2.1 Introduction
+
+2.2 The Mean
+
+2.3 The Standard Deviation
+
+2.4 Pascal Program: Mean and Standard Deviation
+
+2.5 Random Numbers
+
+2.6 Pascal Function: A Random Number Generator
+
+2.7 Pascal Program: Evaluation of a Random Number Generator
+
+2.8 Pascal Function: Gaussian Random Number Generator
+
+2.9 Pascal Program: Evaluating RANDG
+
+2.10 Summary

@@ -1,0 +1,33 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+11. Advanced Application: The Normal Curve, the Gaussian Error Function, the Gamma Function, and the Bessel Function
+
+11.1 Introduction
+
+11.2 The Normal and Cumulative Distribution Functions
+
+11.3 The Gaussian Error Function
+
+11.4 Pascal Program: Evaluating the Gaussian Error Function Using Simpson’s Rule
+
+11.5 Pascal Program: Evaluating the Gaussian Error Function Using an Infinite Series Expansion
+
+11.6 The Complement of the Error Function
+
+11.7 Pascal Program: Evaluating the Complement of the Error Function
+
+11.8 Pascal Program: A Faster Implementation of the Error Function
+
+11.9 The Gamma Function
+
+11.10 Pascal Program: Evaluation of the Gamma Function
+
+11.11 Bessel functions
+
+11.12 Pascal Program: Bessel Functions of the First Kind
+
+11.13 Pascal Program: Bessel Functions of the Second Kind
+
+11.14 Summary

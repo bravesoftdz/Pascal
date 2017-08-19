@@ -1,0 +1,20 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+8. Solution of Equations by Newton’s Method
+
+8.1 Introduction
+
+8.2 Formulating Newton’s Method
+
+8.3 Pascal Program: A First Attempt at Newton’s Method
+
+8.4 Pascal Program: Solving Other Equations
+
+8.5 Pascal Program: The Vapor Pressure Equation
+
+8.6 Summary
+
+
+

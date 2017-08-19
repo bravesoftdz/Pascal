@@ -1,0 +1,22 @@
+Pascal Programs for Scientists and Engineers
+
+by Alan R. Miller
+
+10. Nonlinear Curve-Fitting Equation
+
+10.1 Introduction
+
+10.2 Linearizing the Rational Function
+
+10.3 Pascal Program: The Clausing Factor Fitted to the Rational Function
+
+10.4 Linearizing the Exponential Equation
+
+10.5 Pascal Program: An Exponential Curve Fit for the Diffusion of Zinc in Copper
+
+10.6 Direct Solution of the Exponential Equation
+
+10.7 Pascal Program: A Non-linearized Exponential Curve Fit
+
+10.8 Summary
+

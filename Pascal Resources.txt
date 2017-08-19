@@ -1,0 +1,2 @@
+Pascal Code Examples
+http://sandbox.mc.edu/~bennet/cs404/doc/pasdex.html
