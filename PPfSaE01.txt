@@ -23,3 +23,32 @@ by Alan R. Miller
 1.9 Pascal Program: Calculating Powers of 10
 
 1.10 Summary
+
+
+Figure 1.1: A Test of the Floating-Point Operations
+
+Figure 1.2: Precision Test: First Complier
+
+Figure 1.3: Precision Test: Second Complier
+
+Figure 1.4: Precision Test: Third Complier
+
+Figure 1.5: Test for the SIN Function
+
+Figure 1.6: SIN Test: First Complier
+
+Figure 1.7: SIN Test: Second Complier
+
+Figure 1.8: A Test of the LN and EXP Functions
+
+Figure 1.9: An Arc Tangent Function with Two Arguments
+
+Figure 1.10 The Arc Sine Function
+
+Figure 1.11: The Arc Cosine Function
+
+Figure 1.12: Program to Test the Arc Sine and Arc Tangent Functions
+
+Figure 1.13 A Function to Calculate Powers of 10
+
+Figure 1.14 Output from the Power-of-10 Program

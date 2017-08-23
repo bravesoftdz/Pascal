@@ -20,3 +20,32 @@ by Alan R. Miller
 
 5.8 Summary
 
+
+Figure 5.1: The Beginning of a Curve-Fitting Program
+
+Figure 5.2: Alternate Routines Including RANDOM
+
+Figure 5.3: First Run of the Curve-Fitting Program:  FUDGE = 0
+
+Figure 5.4: A Plotting Procedure
+
+Figure 5.5: y Plotted as a Function of x
+
+Figure 5.6: Procedure LINFIT to Simulate a Linear Fit
+
+Figure 5.7: The Revised Procedure WRITE_DATA
+
+Figure 5.8: The Current Main Program
+
+Figure 5.9: y and Y_CALC Plotted Against x
+
+Figure 5.10: Procedure LINFIT to Generate a Least-Squares Fit
+
+Figure 5.11: A Least-Squares Fit to y vs x
+
+Figure 5.12: No Correlation Between x and y
+
+Figure 5.13: Badly Scattered Data
+
+Figure 5.14: The Complete Curve-Fitting Program
+

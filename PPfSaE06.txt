@@ -27,3 +27,14 @@ by Alan R. Miller
 6.11 Incorporating Sort into the Curve-Fitting Program
 
 6.12 Summary
+
+
+Figure 6.1: A Bubble Sort Procedure and Driving Program
+
+Figure 6.2: A Variation of the Bubble Sort: Incorporating a Separate Procedure SWAP
+
+Figure 6.3: A Steel Sort Procedure
+
+Figure 6.4: A Recursive Quick Sort
+
+Figure 6.5: A Non-recursive Version of Quick Sort

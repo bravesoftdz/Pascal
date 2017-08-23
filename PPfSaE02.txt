@@ -23,3 +23,24 @@ by Alan R. Miller
 2.9 Pascal Program: Evaluating RANDG
 
 2.10 Summary
+
+
+Figure 2.1: A Bell Shaped Curve
+
+Figure 2.2: Lager Dispersion
+
+Figure 2.3: Calculation of the Mean and Standard Deviation
+
+Figure 2.4: Output from the Mean and Standard Deviation Program
+
+Figure 2.5: A Pascal Function for Generating Random Numbers
+
+Figure 2.6: Output from Program RANTST
+
+Figure 2.7: Program to Test the Random Number Generator
+
+Figure 2.8: A Function to Generate Normally Distributed Random Numbers
+
+Figure 2.9: Program to Test Gaussian Random Number Generator
+
+

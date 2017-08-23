@@ -22,3 +22,10 @@ by Alan R. Miller
 
 3.9 Summary
 
+
+Figure 3.1:  Matrix Multiplication Program (A = t(X)*X, G = Y*X)
+
+Figure 3.2: Output from the Matrix Multiplication Program
+
+Figure 3.3: The Determinant of a 3-by-3 Matrix
+

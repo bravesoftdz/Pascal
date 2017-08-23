@@ -26,3 +26,34 @@ by Alan R. Miller
 
 7.11 Summary
 
+
+Figure 7.1: A Parabolic Least-Squares Fit
+
+Figure 7.2: Output from the Parabolic Curve Fit Program
+
+Figure 7.3: A Parabolic Least-Squares Fit Using Gauss-Jordan Elimination
+
+Figure 7.4: Output: An Alternative Version of a Parabolic Least-Squares Curve Fit
+
+Figure 7.5: Inputting the Polynomial Order from the Console
+
+Figure 7.6: A Straight-Line Fit to Parabolic Data
+
+Figure 7.7: Procedures GET_DATA and LINFIT for the Heat-Capacity Equation
+
+Figure 7.8: Output: The Heat Capacity of Oxygen
+
+Figure 7.9: Procedures GET_DATA and LINFIT for the Vapor Pressure Equation
+
+Figure 7.10: Output: The Vapor Pressure of Lead
+
+Figure 7.11: An Equation of State for Steam
+
+Figure 7.12: Output: The Properties of Superheated Steam (the exponent n = 1)
+
+Figure 7.13: Output: The Properties of Superheated Steam (the exponent n = 2)
+
+Figure 7.14: Output: The Properties of Superheated Steam (the exponent n = 3)
+
+Figure 7.15: Output: The Properties of Superheated Steam (the exponent n = 4)
+

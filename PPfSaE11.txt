@@ -31,3 +31,41 @@ by Alan R. Miller
 11.13 Pascal Program: Bessel Functions of the Second Kind
 
 11.14 Summary
+
+
+Figure 11.1: The Normal Probability Distribution Function
+
+Figure 11.2: Normal Curves with Large (a) and Small (b) Standard Deviations
+
+Figure 11.3: The Cumulative Distribution Function
+
+Figure 11.4: The Gaussian Error Function by Simpson’s Rule
+
+Figure 11.5: An Infinite Series Expansion for the Gaussian Error Function
+
+Figure 11.6: The Gaussian Error Function
+
+Figure 11.7: The Error Function and its Complement
+
+Figure 11.8: The Complementary Error Function
+
+Figure 11.9: A Non-iterative Error-Function Calculation
+
+Figure 11.10: The Gamma Function
+
+Figure 11.11: Selected Gammas Function Values
+
+Figure 11.12: Evaluation of the Gamma Function
+
+Figure 11.13: The Bessel Function I[0] and I[1]
+
+Figure 11.14: Selected Bessel Function Values
+
+Figure 11.15: The Bessel Function of the First Kind
+
+Figure 11.16: The Bessel Functions Y[0] and Y[1]
+
+Figure 11.17: Selected Values of the Bessel function of the Second Kind
+
+Figure 11.18: The Bessel function of the Second Kind
+

@@ -41,3 +41,33 @@ by Alan R. Miller
 4.18 Pascal Program: The Gauss-Seidel Method
 
 4.19 Summary
+
+
+Figure 4.1: A Network of Resistors and DC Sources
+
+Figure 4.2: Solution of Three Linear Equations by Cramer’s Rule
+
+Figure 4.3: Simultaneous Solution by Gauss Elimination
+
+Figure 4.4: Output: Solution of the Electrical Circuit Problem Using Gauss Elimination
+
+Figure 4.5: Solution of Simultaneous Equations by Gauss-Jordan Elimination
+
+Figure 4.6: Gauss-Jordan Procedure
+
+Figure 4.7: Output from Second Version of the Gauss-Jordan Method
+
+Figure 4.8: Solution of Simultaneous Equations and Matrix Inversion by the Gauss-Jordan Method
+
+Figure 4.9: Solution of a Set of Ill-Conditioned Equations
+
+Figure 4.10: Two-Dimensional “Best Fit”
+
+Figure 4.11: The Best Fit to a Set of Linear Equations
+
+Figure 4.12: A Network Containing an AC Supply
+
+Figure 4.13: Simultaneous Solution of Equations with Complex Coefficients
+
+Figure 4.14: Solution of Linear Equations by the Gauss-Seidel Method
+

@@ -27,3 +27,43 @@ by Alan R. Miller
 9.11 Pascal Program: Adjustable Panels for an Infinite Function
 
 9.12 Summary
+
+
+Figure 9.1: The Area under the Curve y = f(x)
+
+Figure 9.2: Calculation of the Area with One Panel
+
+Figure 9.3: The Trapezoidal Rule
+
+Figure 9.4: An Improved Trapezoidal Method
+
+Figure 9.5: Integration by the Improved Trapezoidal Method
+
+Figure 9.6: Function DFX and Procedure TRAPEZ with End Correction
+
+Figure 9.7: Trapezoidal Integration with End Correction
+
+Figure 9.8: Simpson’s Rule
+
+Figure 9.9: Integration by Simpson’s Rule
+
+Figure 9.10: Integration of exp(-x^2) by Simpson’s Rule
+
+Figure 9.11: The Integral of sin^2(x) over 0 to 4*pi
+
+Figure 9.12: Procedure SIMPS with End Correction
+
+Figure 9.13: Integration by Simpson’s Rule with End Correction
+
+Figure 9.14: The Romberg Method
+
+Figure 9.15: Integration by the Romberg Method
+
+Figure 9.16: Integration of exp(-x^2) by the Romberg Method
+
+Figure 9.17: Integration of sin^2(x) by the Romberg Method
+
+Figure 9.18: Romberg Integration with Adjustable Panels
+
+Figure 9.19: Integration of 1/sqrt(x) near Zeror
+

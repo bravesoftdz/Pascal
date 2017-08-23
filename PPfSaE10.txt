@@ -20,3 +20,16 @@ by Alan R. Miller
 
 10.8 Summary
 
+
+Figure 10.1: The Clausing Factor Fitted to the Ratio of Two Polynomials
+
+Figure 10.2: The Clausing Factor vs L/r Fitted to a Rational Function
+
+Figure 10.3: A Least-Squares Fit to the Linearized Exponential Equation
+
+Figure 10.4: The Diffusion of Zinc in Copper (Linearized Fit)
+
+Figure 10.5: A Least-Squares Fit to the Non-linearized Exponential Function
+
+Figure 10.6: The Diffusion of Zinc in Cooper (Nonlinear Fit)
+
