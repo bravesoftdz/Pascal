@@ -1,0 +1,211 @@
+---
+title: "1. Evaluation of a Pascal Compiler"
+author: "Robert A. Stevens"
+date: "8/23/2017"
+output: html_document
+---
+
+```{r, comment=NA}
+
+```
+
+*Pascal Programs for Scientists and Engineers*
+
+by Alan R. Miller
+
+## 1.1 Introduction
+
+## 1.2 Precision and Range of Floating-Point Operations
+
+## 1.3 Pascal Program: A Test of the Floating-Point Operations
+
+http://infohost.nmt.edu/~es421/pascal/list11.pas
+
+```
+PROGRAM Test;
+ { test range of floating-point numbers }
+ { From Borland Pascal Programs for Scientists and Engineers }
+ { by Alan R. Miller, Copyright C 1993, SYBEX Inc }
+
+USES Crt; { Crt for non-windows version}
+
+VAR
+  I: Integer;
+  X: Real;
+
+BEGIN
+  WriteLn;
+  X := 1.0E-4 / 3.0;
+  FOR I := 1 TO 18 DO
+    BEGIN
+      Write( I:5, X);
+      X := 0.1 * X;
+      WriteLn('    ', X);
+      X := 0.1 * X
+    END;
+  Writeln;
+  Writeln('  Press Enter to end');
+  REPEAT UNTIL KeyPressed;
+END.
+```
+
+```{r, comment=NA}
+X <- 1.0E-4 / 3.0
+for(i in 1:18) {
+  cat(i, X);
+  X <- 0.1 * X
+  cat('    ', X, '\n')
+  X <- 0.1 * X
+}
+
+# without "for" loop
+X <- (1/3)/10^(4:39)
+matrix(X, ncol = 2, byrow = TRUE)
+```
+
+**Figure 1.1:** A Test of the Floating-Point Operations
+
+**Figure 1.2:** Precision Test: First Complier
+
+**Figure 1.3:** Precision Test: Second Complier
+
+**Figure 1.4:** Precision Test: Third Complier
+
+## 1.4 Pascal SIN and COS Functions
+
+## 1.5 Pascal Program: Testing the SIN Function
+
+```
+PROGRAM TSIN;
+ { test range of sin }
+
+USES WinCrt; { Crt for non-windows version}
+
+VAR
+  I: Integer;
+  X, Y: Real;
+
+BEGIN
+  X := 1.0E-4 / 0.3;
+  FOR I := 1 TO 40 DO
+    BEGIN
+      Y := SIN(X);
+      WriteLn(' X =', X,', sin =', Y);
+      X := 0.1 * X
+    END;
+  Writeln; Writeln('  Press Enter to end');
+  REPEAT UNTIL KeyPressed; 
+  DoneWinCrt  { for Windows version only }
+END.
+```
+
+```{r, comment=NA}
+#X <- 1.0E-4 / 3.0
+X <- 1.0E-3 / 3.0
+for(i in 1:15) {
+  cat(i, X, '    ', sin(X), '\n')
+  X <- 0.1 * X
+}
+
+# without "for" loop
+X <- (1/3)/10^(3:17)
+Y <- sin(X)
+cbind(X, Y)
+```
+
+**Figure 1.5:** Test for the SIN Function
+
+**Figure 1.6:** SIN Test: First Complier
+
+**Figure 1.7:** SIN Test: Second Complier
+
+## 1.6 Other Pascal Functions
+
+http://infohost.nmt.edu/~es421/pascal/list12.pas
+
+```
+PROGRAM Tlog;
+ { test ln and exp }
+ { From Borland Pascal Programs for Scientists and Engineers }
+ { by Alan R. Miller, Copyright C 1993, SYBEX Inc }
+USES WinCrt; { Crt for non-windows version}
+
+VAR
+  I: Integer;
+  X, Y: Real;
+
+BEGIN
+  X := 1.0E-4 / 0.3;
+  FOR I := 1 TO 10 DO
+    BEGIN
+      Y := Ln(X);
+      WriteLn(' X =', X,', Exp(Ln) =', Exp(Y));
+      X := 0.5 * X
+    END;
+  Writeln; Writeln('  Press Enter to end');
+  REPEAT UNTIL KeyPressed; 
+  DoneWinCrt  { for Windows version only }
+END.
+```
+
+```{r, comment=NA}
+X <- 1.0E-4 / 0.3
+for (i in 1:10) {
+  Y <- log(X)
+  cat(' X =', X, ', Exp(Ln) =', exp(Y), "\n")
+  X <- 0.5 * X
+}
+
+# without "for" loop
+X <- (0.5^c(0:9))/(3*10^3)
+Y <- log(X)
+LabelX <- rep(" X =", 10)
+LabelY <- rep(", Exp(Ln) =", 10)
+data.frame(LabelX, X, LabelY, expY = exp(Y))
+```
+
+**Figure 1.8:** A Test of the LN and EXP Functions
+
+```{r, comment=NA}
+
+```
+
+**Figure 1.9:** An Arc Tangent Function with Two Arguments
+
+```{r, comment=NA}
+
+```
+
+**Figure 1.10:** The Arc Sine Function
+
+```{r, comment=NA}
+
+```
+
+**Figure 1.11:** The Arc Cosine Function
+
+```{r, comment=NA}
+
+```
+
+**Figure 1.12:** Program to Test the Arc Sine and Arc Tangent Functions
+
+## 1.7 External Files
+
+## 1.8 A Power-of-10 Function
+
+## 1.9 Pascal Program: Calculating Powers of 10
+
+```{r, comment=NA}
+
+```
+
+**Figure 1.13:** A Function to Calculate Powers of 10
+
+```{r, comment=NA}
+
+```
+
+**Figure 1.14:** Output from the Power-of-10 Program
+
+## 1.10 Summary

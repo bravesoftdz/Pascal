@@ -1,0 +1,32 @@
+---
+title: "Pascal Programs for Scientists and Engineers"
+author: "Robert A. Stevens"
+date: "08/23/2017"
+output: html_document
+---
+
+by Alan R. Miller
+
+## Contents
+
+1. Evaluation of a Pascal Compiler
+
+2. Mean and Standard Deviation
+
+3. Vector and Matrix Operations
+
+4. Simultaneous Solution of Linear Equations
+
+5. Development of a Curve-Fitting Program
+
+6. Sorting
+
+7. General Least-Squares Curve Fitting
+
+8. Solution of Equations by Newton’s Method
+
+9. Numerical Integration
+
+10. Nonlinear Curve-Fitting Equation
+
+11. Advanced Application: The Normal Curve, the Gaussian Error Function, the Gamma Function, and the Bessel Function
